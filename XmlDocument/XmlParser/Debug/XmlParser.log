@@ -1,0 +1,8 @@
+﻿  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  XMLUtilities.cpp
+  Generating Code...
+  XmlParser.vcxproj -> C:\Users\User\Desktop\OOD\Final\NoSqlDb (1)\Debug\XmlParser.lib
