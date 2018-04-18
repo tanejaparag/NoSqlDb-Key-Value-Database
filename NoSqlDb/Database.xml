@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML test case -->
+<DataBase>
+<DBElement>
+  <key>Taneja</key>
+  <name>Parag</name>
+  <description>Student in OOD class</description>
+  <date_time>Mon Jan 29 06:53:29 2018</date_time>
+  <payload>
+	<payload_filepath>C:/XYZ/ABC/DEF.txt</payload_filepath>
+	<payload_category>
+		<payload_category_type>Orange</payload_category_type>
+		<payload_category_type>Apple</payload_category_type>
+	</payload_category>
+  </payload>
+  <children>
+  </children>
+</DBElement>
+<DBElement>
+  <key>Kolupoti</key>
+  <name>Meghna</name>
+  <description>Not a student in OOD class</description>
+  <date_time>Mon Jan 30 06:53:29 2018</date_time>
+  <payload>
+	<payload_filepath>C:/GHI/JKL/MNO.txt</payload_filepath>
+	<payload_category>
+		<payload_category_type>Apple</payload_category_type>
+		<payload_category_type>Grapes</payload_category_type>
+	</payload_category>
+  </payload>
+  <children>
+       <children_key>Taneja</children_key>
+  </children>
+</DBElement>
+</DataBase>
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML test case -->
+<DataBase>
+<DBElement>
+  <key>Midha</key>
+  <name>Kavish</name>
+  <description>Lives in Kaithal</description>
+  <date_time>Mon Jan 29 08:53:29 2018</date_time>
+  <payload>
+	<payload_filepath>C:/HUDA/Sector19/DEF.txt</payload_filepath>
+	<payload_category>
+		<payload_category_type>HUDA1</payload_category_type>
+		<payload_category_type>HUDA2</payload_category_type>
+	</payload_category>
+  </payload>
+  <children>
+  </children>
+</DBElement>
+<DBElement>
+  <key>Kolupoti</key>
+  <name>Meghna</name>
+  <description>Not a student in OOD class</description>
+  <date_time>Mon Jan 30 06:53:29 2018</date_time>
+  <payload>
+	<payload_filepath>Augmented Path</payload_filepath>
+	<payload_category>
+		<payload_category_type>Augmented category 1</payload_category_type>
+		<payload_category_type>Augmented category 2</payload_category_type>
+	</payload_category>
+  </payload>
+  <children>
+       <children_key>Taneja</children_key>
+  </children>
+</DBElement>
+</DataBase>
+
+
+
+
+
+
